@@ -174,4 +174,5 @@ if st.button("🔮 Predict Price"):
         st.progress(float(p), text=f"{PRICE_MAP[i]} : {p*100:.2f}%")
 
 
-st.markdown("<footer>🚀 Built with ML & ❤️ by My love Suryadip</footer>", unsafe_allow_html=True)
+st.markdown("<footer>🚀 Built with ML by Suryadip</footer>", unsafe_allow_html=True)
+
